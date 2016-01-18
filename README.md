@@ -20,7 +20,7 @@ sudo apt-get install vagrant
 - clone the vm and create appropriate directories
 
 ```sh
-git clone https://
+git clone https://github.com/slvn-lefebvre/spark-isep-vm.git
 ```
 - Login in the vm and start all components
 
