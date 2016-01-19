@@ -25,6 +25,9 @@ git clone https://github.com/slvn-lefebvre/spark-isep-vm.git
 - Login in the vm and start all components
 
 ```sh
+cd spark-isep-vm
+mkdir mavendeps
+mkdir npm-cache
 vagrant up
 vagrant ssh
 sudo sh /opt/dataset/start-all.sh
